@@ -19,4 +19,4 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+This file is exclusive to Morriah Striplin. All changes to the template are exclusivly mine. If you like what you see, go get the Start Bootstrap Resume and start from there. Don't use my files!

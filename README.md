@@ -19,4 +19,4 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 ## Copyright and License
 
-This file is exclusive to Morriah Striplin. All changes to the template are exclusivly mine. If you like what you see, go get the Start Bootstrap Resume and start from there. Don't use my files!
+This file and changes to The Start Bootstrap - Resume template are copyrighted to Morriah Striplin, all rights reserved. All changes to the template are exclusivly mine. If you like what you see, please go get the Start Bootstrap Resume and start from there. You can find a link above to the template.
